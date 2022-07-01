@@ -4,7 +4,7 @@ title: "Paralaxee em ambientes virtuais"
 date: 2014-12-01 16:16:29 -0600
 categories: trabalho
 autornick: MariaLSLM
-autor: "Maria Luíza Santinho Lima Mont"
+autor: "Maria Luíza Santinho Lima Monteiro"
 orientador: "Prof. Dr. "
 
 ---
