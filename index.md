@@ -1,4 +1,4 @@
-# TCCs do BCC 2014 2º semestre
+# TCCs do BCC 2022 2º semestre
 
 A publicação dos TCCs de BCC tem por objetivo inspirar e
 apresentar aos alunos, professores, funcionários e a comunidade (em especial as
