@@ -1,7 +1,7 @@
 theme: jekyll-theme-architect
-repository: dco-unesp-bauru/tcc-bcc-2014-2
+repository: dco-unesp-bauru/tcc-bcc-2022-2
 title: [TCCs de BCC]
-description: [Trabalhos de Conclusão de Curso em Bach. em Ciência da Computação da Unesp de Bauru (FC) - 2014 2º semestre]
-baseurl: /tcc-bcc-2014-2
+description: [Trabalhos de Conclusão de Curso em Bach. em Ciência da Computação da Unesp de Bauru (FC) - 2022 2º semestre]
+baseurl: /tcc-bcc-2022-2
 gems: ['jekyll-github-metadata']
 google_analytics: UA-92166189-1
