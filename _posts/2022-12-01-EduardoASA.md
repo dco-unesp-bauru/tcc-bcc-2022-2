@@ -3,7 +3,7 @@ layout: posts
 title:  "Jogo sério para simulação e conscientização de problemas relacionados à mobilidade urbana"
 date:   2022-12-01 16:16:37 -0600
 categories: trabalho
-autornick: EduardoASA
+autornick: EduardoACSA
 autor: "Eduardo Antonio Comerão Stecca Almeida"
 orientador: "Profª. Me. Juliana da Costa Feitosa"
 
